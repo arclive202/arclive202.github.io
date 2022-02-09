@@ -47,6 +47,13 @@
   box-sizing: border-box;
 }
 
+.prof-img
+{
+  width: 150px;
+  clip-path: circle();
+  align-items: center;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
